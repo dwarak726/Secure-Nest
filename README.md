@@ -1,6 +1,6 @@
-# Secure-nest
-<div align="center">
-  <img src="https://res.cloudinary.com/dvsxdaexn/image/upload/v1732089516/sec2_evbhu8.jpg" style="height:100px;width:100px;">
+<div style="display: flex; align-items: center;">
+  <img src="https://res.cloudinary.com/dvsxdaexn/image/upload/v1732089516/sec2_evbhu8.jpg" alt="Secure Nest" style="height:100px;width:100px;">
+  <h1 style="margin-left: 10px;">Secure Nest</h1>
 </div>
 
 ## Abstract
@@ -19,13 +19,13 @@ The system features a dual-portal visitor management setup, allowing residents t
 ||
 |--|
 |[Python](https://www.python.org/downloads/release/python-3127/)|
-opencv-python  4.8.0
-face-recognition  1.3.0
-numpy  1.24.4
-paddleocr  2.6.1.3
-firebase-admin  6.1.0
-torch  2.0.1
-torchvision  0.15.2
+opencv-python  [4.8.0]()
+face-recognition  [1.3.0]()
+numpy  [1.24.4]()
+paddleocr  [2.6.1.3]()
+firebase-admin  [6.1.0]()
+torch  [2.0.1]()
+torchvision  [0.15.2]()
 
 ## Installation and usage
 - Clone the repository
